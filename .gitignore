@@ -2,3 +2,4 @@ logs/
 dev.log
 *.log
 c++
+all.js
