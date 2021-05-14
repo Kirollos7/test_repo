@@ -1,5 +1,4 @@
-hello world!
-thanks for all
-sky
-slow motion
-kimo all will be will
+function()
+{
+  alert('test all is will be fine')
+}
